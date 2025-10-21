@@ -1,391 +1,218 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0175C2,100:00D4FF&height=200&section=header&text=Eslam%20Maher&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20|%20Mobile%20Innovator&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Coding Workspace" width="40%"/><br>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0175C2&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%9A%80;CS+Student+%40+Nahda+University;ITI+Graduate;Clean+Code+Advocate;Mobile+App+Enthusiast" alt="Typing SVG" /></a>
+# 👋 Hi, I'm Eslam Maher
+### Flutter Developer | Mobile App Enthusiast | Clean Code Advocate
 
-<br><br>
+<p align="center">
+  <em>Transforming ideas into elegant, high-performance mobile experiences</em>
+</p>
 
-<!-- Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0175C2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eslam-maher-b99839255)
-[![Email](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esllam.maherr@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=0175C2&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/eslam-maher-b99839255)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:esllam.maherr@gmail.com)
 
 </div>
 
+<hr>
+
+## 🚀 About Me
+
+I'm a passionate **Flutter Developer** who loves building beautiful, scalable mobile applications. I believe in writing clean, maintainable code and creating seamless user experiences. My focus is on modern architectures, state management, and performance optimization.
+
+- 🔭 Currently crafting amazing Flutter apps with **Clean Architecture**
+- 🌱 Continuously learning and exploring new technologies in mobile development
+- 💡 Specialized in **MVVM**, **Bloc/Cubit**, and modern state management
+- 🎯 Goal: Build apps that users love and developers admire
+- ⚡ Fun fact: I turn coffee into Flutter code ☕➡️📱
+
+<hr>
+
+## 🛠️ Tech Stack
+
+### 🧠 Programming Languages
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ⚙️ Frameworks & Architecture
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Bloc](https://img.shields.io/badge/Bloc-0175C2?style=for-the-badge&logo=flutter&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-Architecture-orange?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-green?style=for-the-badge)
+
+### ☁️ Backend & Databases
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FF6B35?style=for-the-badge&logo=hive&logoColor=white)
+
+### 🧩 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-009688?style=for-the-badge)
+![Dio](https://img.shields.io/badge/Dio-Package-blue?style=for-the-badge)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+
+### 🎨 Design & UI/UX
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive-Design-purple?style=for-the-badge)
+
+<hr>
+
+## 📱 Featured Projects
+
+### 🛒 [Grabber - E-commerce App](https://github.com/YOUR_USERNAME/grabber)
+A complete hypermarket delivery application with modern architecture and seamless user experience.
+
+**Tech Stack:** Flutter • Supabase • Clean Architecture • Bloc  
+**Features:**
+- 🔐 Secure authentication system
+- 🔍 Advanced search & filtering
+- 📄 Smart pagination for performance
+- 📦 Real-time order tracking
+- 🎨 Modern, user-friendly UI
+
+---
+
+### 🚗 [Carraze - Car Marketplace](https://github.com/YOUR_USERNAME/carraze)
+A fully functional car marketplace connecting buyers and sellers effortlessly.
+
+**Tech Stack:** Flutter • Firebase • Bloc • MVVM  
+**Features:**
+- 👤 Login/Signup with Firebase Auth
+- 🚘 Real-time car listings
+- 🔎 Advanced search & filtering
+- 👨‍💼 Profile management
+- 📱 Fully responsive design
+
+---
+
+### 📚 [Bookly - Book Reading App](https://github.com/YOUR_USERNAME/bookly)
+A modern book browsing application integrated with Google Books API.
+
+**Tech Stack:** Flutter • Bloc • Google Books API • Clean Architecture  
+**Features:**
+- 📖 Browse thousands of books
+- 🔍 Smart search functionality
+- 📝 Detailed book information
+- ⚡ Performance optimization
+- 🎯 Clean architecture implementation
+
+---
+
+### 💼 [Work Wave - Job Finder](https://github.com/YOUR_USERNAME/work-wave)
+A job search platform bridging the gap between job seekers and employers.
+
+**Tech Stack:** Flutter • Firebase • Bloc  
+**Features:**
+- 🔐 Secure authentication
+- 💼 Job listings & applications
+- 👤 Profile management
+- 🎨 Elegant UI/UX
+- 📱 Cross-platform compatibility
+
+---
+
+### 🍔 [Hungry - Food Delivery](https://github.com/YOUR_USERNAME/hungry)
+A clean and interactive food delivery application with smooth user experience.
+
+**Tech Stack:** Flutter • REST APIs • Responsive Design  
+**Features:**
+- 🍽️ Restaurant listings
+- 📂 Category browsing
+- 🛒 Cart management
+- 💳 Payment integration
+- 📱 Responsive across devices
+
+<hr>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=02569B&icon_color=02569B" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=02569B&fire=02569B&currStreakLabel=02569B" width="48%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=02569B&langs_count=8" width="48%">
+
+</div>
+
+<details>
+<summary><b>📈 More GitHub Metrics</b></summary>
 <br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=radical" width="100%">
+</details>
 
-<!-- Wave Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr>
 
-<br>
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> About Me
+## 💻 Code Philosophy
 
 ```dart
 class EslamMaher extends FlutterDeveloper {
-  String university = "Nahda University - CS Student";
-  String graduate = "ITI Graduate";
-  
-  List<String> passions = [
-    "Turning ideas into elegant mobile apps",
-    "Writing clean, scalable code",
-    "Building user-friendly experiences",
-    "Modern architecture (MVVM, Bloc)",
-    "Mobile innovation & API integration"
+  final List<String> principles = [
+    "Clean Code is Happy Code",
+    "User Experience First",
+    "Performance Matters",
+    "Architecture Over Hacks",
+    "Continuous Learning"
   ];
   
-  String motto = "Always learning, always improving 🚀";
-}
-```
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-- 🎓 **CS Student** @ Nahda University
-- 🎖️ **ITI Graduate** in Mobile Development
-- 🔭 Currently building **amazing Flutter apps**
-- 🌱 Exploring **Clean Architecture & Advanced Patterns**
-- 💡 Focused on **UI/UX, Performance & Scalability**
-- 🎯 Passionate about **Mobile Innovation**
-- ⚡ Fun fact: **I debug with coffee ☕**
-
-<br clear="right"/>
-
-<!-- Wave Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Tech Stack
-
-<div align="center">
-
-### 🧠 Programming Languages
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
-<br>Dart
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-<br>C++
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=sql" width="48" height="48" alt="SQL" />
-<br>SQL
-</td>
-</tr>
-</table>
-
-### ⚙️ Frameworks & Architecture
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-<br>Flutter
-</td>
-<td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/bloc-2.svg" width="48" height="48" alt="Bloc" />
-<br>Bloc/Cubit
-</td>
-<td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="48" height="48" alt="MVVM" />
-<br>MVVM
-</td>
-<td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="48" height="48" alt="Clean Arch" />
-<br>Clean Arch
-</td>
-</tr>
-</table>
-
-### ☁️ Backend & Databases
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-<br>Firebase
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-<br>Supabase
-</td>
-<td align="center" width="96">
-<img src="https://avatars.githubusercontent.com/u/70629360?s=200&v=4" width="48" height="48" alt="Hive" />
-<br>Hive
-</td>
-</tr>
-</table>
-
-### 🧩 Tools & Platforms
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br>Git
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br>GitHub
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br>VS Code
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
-<br>Android Studio
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-<br>Postman
-</td>
-</tr>
-</table>
-
-### 🎨 Design & UI/UX
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-<br>Figma
-</td>
-<td align="center" width="96">
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="48" height="48" alt="Responsive" />
-<br>Responsive
-</td>
-<td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="48" height="48" alt="Animations" />
-<br>Animations
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- Wave Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛒 Grabber
-**E-commerce Hypermarket App**
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Clean_Architecture-orange?style=flat"/>
-
-✨ **Features:**
-- 🔐 Secure Authentication
-- 🔍 Advanced Search & Filter
-- 📄 Smart Pagination
-- 📦 Order Tracking
-- 🎨 Modern UI/UX
-
-[View Project →](#)
-
-</td>
-<td width="50%">
-
-### 🚗 Carraze
-**Car Marketplace Platform**
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bloc-0175C2?style=flat"/>
-
-✨ **Features:**
-- 👤 Firebase Auth
-- 🚘 Real-time Listings
-- 🔎 Search & Filter
-- 👨‍💼 Profile Management
-- 📱 Responsive Design
-
-[View Project →](#)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📚 Bookly
-**Book Reading Application**
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bloc-0175C2?style=flat"/>
-<img src="https://img.shields.io/badge/Google_Books_API-4285F4?style=flat&logo=google&logoColor=white"/>
-
-✨ **Features:**
-- 📖 Browse Books
-- 🔍 Smart Search
-- 📝 Book Details
-- ⚡ Optimized Performance
-- 🎯 Clean Architecture
-
-[View Project →](#)
-
-</td>
-<td width="50%">
-
-### 💼 Work Wave
-**Job Finder Platform**
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bloc-0175C2?style=flat"/>
-
-✨ **Features:**
-- 🔐 Authentication
-- 💼 Job Listings
-- 👤 Profile System
-- 🎨 Elegant UI/UX
-- 📱 Cross-platform
-
-[View Project →](#)
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-
-### 🍔 Hungry
-**Food Delivery Application**
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-009688?style=flat"/>
-<img src="https://img.shields.io/badge/Dio-blue?style=flat"/>
-
-✨ **Features:**
-- 🍽️ Restaurant Listings • 📂 Category Browse • 🛒 Cart Management • 💳 Payment Integration • 📱 Responsive
-
-[View Project →](#)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- Wave Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0175C2&icon_color=00D4FF&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0175C2&text_color=c9d1d9"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=0175C2&fire=00D4FF&currStreakLabel=00D4FF" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0175C2&line=00D4FF&point=00D4FF" width="49%"/>
-
-<br><br>
-
-<!-- Trophy Stats -->
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
-
-</div>
-
-<!-- Wave Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 🎯 Development Philosophy
-
-<div align="center">
-
-```dart
-void developmentCycle() async {
-  while (true) {
-    await drinkCoffee();     // ☕ Fuel up
-    await writeCleanCode();  // 💻 Code with passion
-    await implementBloc();   // 🎯 State management
-    await designUI();        // 🎨 Beautiful interfaces
-    await optimizeApp();     // ⚡ Performance matters
-    await learnNewTech();    // 📚 Never stop learning
+  void buildApp() {
+    while (coffee.isAvailable) {
+      writeCleanCode();
+      implementBestPractices();
+      createAmazingUI();
+      optimizePerformance();
+    }
   }
 }
 ```
 
-<br>
+<hr>
 
-### 🔄 The Developer Journey
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="80"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="80"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="80"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" width="80"/>
-
-**"Bug Found"** → **"Debugging"** → **"It Works!"** → **"Success!"**
-
-</div>
-
-<!-- Wave Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 🤝 Let's Connect & Collaborate
+## 🎯 Development Cycle
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/eslam-maher-b99839255">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:esllam.maherr@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Debugging"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It works!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="How does it work?!"/>
 
-<br><br>
+<p><em>"It's broken!" → "It works!" → "It works... but how?!"</em></p>
 
-### 💬 Open to:
-**Freelance Projects** • **Collaboration** • **Flutter Opportunities** • **Tech Discussions**
+</div>
 
-<br>
+<hr>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="80"/>
+## 🤝 Let's Connect
 
-### *"First, solve the problem. Then, write the code."*
-**– John Johnson**
+<div align="center">
 
-<br>
+I'm always open to interesting conversations and collaboration opportunities!
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-</picture>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eslam%20Maher-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eslam-maher-b99839255)
+[![Email](https://img.shields.io/badge/Email-esllam.maherr%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esllam.maherr@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
 
-<br><br>
+</div>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0175C2,100:00D4FF&height=120&section=footer" width="100%"/>
+<hr>
+
+<div align="center">
+
+### 💙 Built with Flutter, fueled by passion
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="5%" alt="Rocket"/>
+
+**"Code is like humor. When you have to explain it, it's bad." – Cory House**
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
